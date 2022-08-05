@@ -1,0 +1,14 @@
+; Include forcefield parameters
+#include "dry_martini_v2.1.itp"
+#include "dry_martini_v2.1_ions.itp"
+#include "AuLig.itp"
+#include "CGcit.itp"
+
+[ system ]
+; Name
+gold NP with ligands in water
+
+[ molecules ]
+; Compound        #mols
+AuLigNP	4
+citr    1072

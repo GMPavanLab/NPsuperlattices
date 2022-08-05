@@ -1,0 +1,22 @@
+[ moleculetype ]
+;name            nrexcl
+citr		1
+
+[ atoms ]
+;id type resnr residu atom cgnr   charge
+1   Qa     1     CIT     CO  1    -1.0
+2   Qa     1     CIT     CO  2    -1.0
+3   Qa     1     CIT     CO  3    -1.0
+
+
+;;[ bonds ]
+;   i   j   funct   length  force.c.
+;;   1     2    1       0.322	10000
+;;   1     3    1       0.322	10000
+;;   2	 3    1       0.455	10000	
+
+[ constraints ]
+;  i     j   funct   length  
+   1     2    1       0.322
+   1     3    1       0.322
+   2	 3    1       0.455

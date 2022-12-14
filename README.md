@@ -1,6 +1,6 @@
 # NPsuperlattices
 
-This repository contains the set of data shown in the paper "Reconstitution of microtubule into GTP-responsive nanocapsules".
+This repository contains the set of data shown in the paper "Supramolecular Semiconductivity through Emerging Ionic Gates in Ion−Nanoparticle Superlattices".
 
 All the input data needed to run the simulations and get the results are organized in 2 different folders:
 
